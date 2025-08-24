@@ -108,7 +108,7 @@ In C++, classes define the structure, and objects are instances of that structur
 
 # Algorithms:
 
-1. Algorithm: Student Class & Objects
+## 1. Algorithm: Student Class & Objects
 
 Step 1: Start
 
@@ -138,7 +138,7 @@ Step 6: Display the details of s2 in the same way.
 
 Step 7: End.
 
-2. Algorithm: Car Class and Objects
+## 2. Algorithm: Car Class and Objects
 
 Step 1: Start
 
@@ -160,7 +160,7 @@ Step 5: Call the function c1.outputDetails() to display the entered details.
 
 Step 6: End.
 
-3. Algorithm: Rectangle Class and Area Calculation
+## 3. Algorithm: Rectangle Class and Area Calculation
 
 Step 1: Start
 
@@ -187,7 +187,7 @@ Step 5: Call the function r.area() to calculate and display the area.
 
 Step 6: End.
 
-4. Algorithm: Calculator Class Operations
+## 4. Algorithm: Calculator Class Operations
 
 Step 1: Start
 
@@ -229,7 +229,7 @@ Step 7: Display results for all operations.
 
 Step 8: End.
 
-5. Algorithm: Cube Volume Program
+## 5. Algorithm: Cube Volume Program
 
 Step 1: Start
 
