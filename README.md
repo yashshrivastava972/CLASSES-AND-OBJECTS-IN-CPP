@@ -82,16 +82,25 @@ int main() {
 
 5. Key Concepts
 Encapsulation → binding data and functions together in a single unit (class).
+
 Abstraction → hiding internal details and showing only necessary information.
+
 Access Specifiers:
+
 public: accessible from outside the class.
+
 private: accessible only inside the class.
+
 protected: accessible inside class and derived classes.
 
 6. Advantages of Using Classes & Objects
+   
 Organizes code in a modular way.
+
 Reusability (once a class is written, it can be reused).
+
 Increases security with data hiding.
+
 Easy to maintain and scale programs.
 
 Summary:
